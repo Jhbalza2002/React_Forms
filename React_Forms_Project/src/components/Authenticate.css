@@ -1,0 +1,40 @@
+.authenticate-container {
+    max-width: 400px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .authenticate-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .authenticate-message {
+    color: green;
+    margin-bottom: 20px;
+  }
+  
+  .authenticate-error {
+    color: red;
+    margin-bottom: 20px;
+  }
+  
+  .authenticate-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .authenticate-button:hover {
+    background-color: #0056b3;
+  }
+  
